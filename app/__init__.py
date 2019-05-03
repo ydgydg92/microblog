@@ -1,4 +1,4 @@
-app/__init__py:flask application instance
+#app/__init__.py: Flask application instance
 
 from flask import Flask
 

@@ -1,4 +1,4 @@
-app/routes.py: Home page route
+#app/routes.py:Home page route
 
 from app import app
 
