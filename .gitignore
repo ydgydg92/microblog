@@ -14,7 +14,7 @@ build
 *.pyc
 __pycache__/
 migrations/
-
+.idea/
 
 
 
