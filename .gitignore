@@ -15,7 +15,7 @@ build
 __pycache__/
 migrations/
 .idea/
-
+__pycache__
 
 
 # My configurations:
