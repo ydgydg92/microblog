@@ -16,7 +16,7 @@ __pycache__/
 migrations/
 .idea/
 __pycache__
-
+logs/
 
 # My configurations:
 db.ini
