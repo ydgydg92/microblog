@@ -20,3 +20,4 @@ class Config(object):
     ADMINS = ["446763288@qq.com"]
 
     POSTS_PER_PAGE = 25
+    LANGUAGES = ['en', 'cn']
